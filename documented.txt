@@ -1,0 +1,81 @@
+the key: secure
+ encoded :c2VjdXJlCg==
+
+==========================
+the key: authorization
+ encoded :YXV0aG9yaXphdGlvbgo=
+
+==========================
+the key: renlizhi
+ encoded :cmVubGl6aGkK
+
+==========================
+the key: √‹¬Î
+ encoded :w9zC6wo=
+
+==========================
+the key: secret-key
+ encoded :c2VjcmV0LWtleQo=
+
+==========================
+the key: spring-secure-my-signiture
+ encoded :c3ByaW5nLXNlY3VyZS1teS1zaWduaXR1cmUK
+
+==========================
+the key: authority-key-spring-security-my-signiture
+ encoded :YXV0aG9yaXR5LWtleS1zcHJpbmctc2VjdXJpdHktbXktc2lnbml0dXJlCg==
+
+==========================
+the key: hi-my-name-is-slim-shady
+ encoded :aGktbXktbmFtZS1pcy1zbGltLXNoYWR5Cg==
+
+==========================
+the key: spring-secure-my-signiture
+ encoded :c3ByaW5nLXNlY3VyZS1teS1zaWduaXR1cmUK
+
+==========================
+the key: wewssss
+ encoded :d2V3c3Nzcwo=
+ count: 64 
+==========================
+the key: ssdeaas
+ encoded :c3NkZWFhcwo=
+ count: 64 
+==========================
+the key: sd
+ encoded :c2QK
+ count: 24 
+==========================
+the key: sdfs
+ encoded :c2Rmcwo=
+ count: 40 
+==========================
+the key: sd
+ encoded :c2QK
+ count: 24 
+==========================
+the key: sdf
+ encoded :c2RmCg==
+ count: 32 
+==========================
+the key: panda-panda-panda-hahahahaha
+ encoded :cGFuZGEtcGFuZGEtcGFuZGEtaGFoYWhhaGFoYQo=
+ count: 232 
+==========================
+the key: s
+ encoded :cwo=
+ count: 16 
+==========================
+the key: sd
+ encoded :c2QK
+ count: 24 
+==========================
+the key: asd
+ encoded :YXNkCg==
+ count: 32 
+==========================
+the key: opqrst
+ encoded :b3BxcnN0Cg==
+ count: 56 
+=========1:55 2020-07-29=================
+
